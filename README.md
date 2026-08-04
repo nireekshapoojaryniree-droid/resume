@@ -5,7 +5,12 @@ i am nireeksha poojary
 helloooo
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Iam sudeeksha
+=======
+I am Manisha V Devadiga
+hyy
+>>>>>>> f487e8ce425cc356a52429ec2c8353e08201f915
 =======
 how are you
 excuse me
